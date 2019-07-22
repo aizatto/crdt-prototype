@@ -1,0 +1,1 @@
+docker exec -it crdt-prototype_redis_1 redis-cli get document
